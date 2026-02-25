@@ -59,6 +59,7 @@ football-grid-gallery/
     preview
 
     ![img](/image.png)
+    [live](https://anandhu-photogallery.netlify.app/)
 
 ---
 
